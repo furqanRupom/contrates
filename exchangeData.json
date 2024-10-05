@@ -1,0 +1,895 @@
+[
+  {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham",
+    "rate": 3.67,
+    "country": "United Arab Emirates"
+  },
+  {
+    "code": "AFN",
+    "name": "Afghan Afghani",
+    "rate": 86.50,
+    "country": "Afghanistan"
+  },
+  {
+    "code": "ALL",
+    "name": "Albanian Lek",
+    "rate": 106.50,
+    "country": "Albania"
+  },
+  {
+    "code": "AMD",
+    "name": "Armenian Dram",
+    "rate": 487.50,
+    "country": "Armenia"
+  },
+  {
+    "code": "ANG",
+    "name": "Netherlands Antillean Guilder",
+    "rate": 1.80,
+    "country": "Sint Maarten"
+  },
+  {
+    "code": "AOA",
+    "name": "Angolan Kwanza",
+    "rate": 526.00,
+    "country": "Angola"
+  },
+  {
+    "code": "ARS",
+    "name": "Argentine Peso",
+    "rate": 225.50,
+    "country": "Argentina"
+  },
+  {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "rate": 1.50,
+    "country": "Australia"
+  },
+  {
+    "code": "AWG",
+    "name": "Aruban Florin",
+    "rate": 1.80,
+    "country": "Aruba"
+  },
+  {
+    "code": "AZN",
+    "name": "Azerbaijani Manat",
+    "rate": 1.70,
+    "country": "Azerbaijan"
+  },
+  {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Mark",
+    "rate": 1.77,
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "code": "BBD",
+    "name": "Barbadian Dollar",
+    "rate": 2.00,
+    "country": "Barbados"
+  },
+  {
+    "code": "BDT",
+    "name": "Bangladeshi Taka",
+    "rate": 107.50,
+    "country": "Bangladesh"
+  },
+  {
+    "code": "BGN",
+    "name": "Bulgarian Lev",
+    "rate": 1.80,
+    "country": "Bulgaria"
+  },
+  {
+    "code": "BHD",
+    "name": "Bahraini Dinar",
+    "rate": 0.38,
+    "country": "Bahrain"
+  },
+  {
+    "code": "BIF",
+    "name": "Burundian Franc",
+    "rate": 2,
+    198.00,
+    "country": "Burundi"
+  },
+  {
+    "code": "BMD",
+    "name": "Bermudian Dollar",
+    "rate": 1.00,
+    "country": "Bermuda"
+  },
+  {
+    "code": "BND",
+    "name": "Brunei Dollar",
+    "rate": 1.50,
+    "country": "Brunei"
+  },
+  {
+    "code": "BOB",
+    "name": "Bolivian Boliviano",
+    "rate": 6.90,
+    "country": "Bolivia"
+  },
+  {
+    "code": "BRL",
+    "name": "Brazilian Real",
+    "rate": 5.00,
+    "country": "Brazil"
+  },
+  {
+    "code": "BSD",
+    "name": "Bahamian Dollar",
+    "rate": 1.00,
+    "country": "Bahamas"
+  },
+  {
+    "code": "BTN",
+    "name": "Bhutanese Ngultrum",
+    "rate": 82.00,
+    "country": "Bhutan"
+  },
+  {
+    "code": "BWP",
+    "name": "Botswana Pula",
+    "rate": 12.50,
+    "country": "Botswana"
+  },
+  {
+    "code": "BYN",
+    "name": "Belarusian Ruble",
+    "rate": 2.80,
+    "country": "Belarus"
+  },
+  {
+    "code": "BZD",
+    "name": "Belize Dollar",
+    "rate": 2.00,
+    "country": "Belize"
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "rate": 1.30,
+    "country": "Canada"
+  },
+  {
+    "code": "CDF",
+    "name": "Congolese Franc",
+    "rate": 2,
+    000.00,
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "rate": 0.90,
+    "country": "Switzerland"
+  },
+  {
+    "code": "CLP",
+    "name": "Chilean Peso",
+    "rate": 800.00,
+    "country": "Chile"
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese Yuan",
+    "rate": 6.40,
+    "country": "China"
+  },
+  {
+    "code": "COP",
+    "name": "Colombian Peso",
+    "rate": 4,
+    000.00,
+    "country": "Colombia"
+  },
+  {
+    "code": "CRC",
+    "name": "Costa Rican Colón",
+    "rate": 550.00,
+    "country": "Costa Rica"
+  },
+  {
+    "code": "CUP",
+    "name": "Cuban Peso",
+    "rate": 24.00,
+    "country": "Cuba"
+  },
+  {
+    "code": "CVE",
+    "name": "Cape Verdean Escudo",
+    "rate": 100.00,
+    "country": "Cape Verde"
+  },
+  {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "rate": 22.50,
+    "country": "Czech Republic"
+  },
+  {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "rate": 6.80,
+    "country": "Denmark"
+  },
+  {
+    "code": "DOP",
+    "name": "Dominican Peso",
+    "rate": 55.00,
+    "country": "Dominican Republic"
+  },
+  {
+    "code": "DZD",
+    "name": "Algerian Dinar",
+    "rate": 135.00,
+    "country": "Algeria"
+  },
+  {
+    "code": "EGP",
+    "name": "Egyptian Pound",
+    "rate": 30.00,
+    "country": "Egypt"
+  },
+  {
+    "code": "ERN",
+    "name": "Eritrean Nakfa",
+    "rate": 15.00,
+    "country": "Eritrea"
+  },
+  {
+    "code": "ETB",
+    "name": "Ethiopian Birr",
+    "rate": 54.00,
+    "country": "Ethiopia"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "rate": 0.95,
+    "country": "Eurozone"
+  },
+  {
+    "code": "FJD",
+    "name": "Fijian Dollar",
+    "rate": 2.30,
+    "country": "Fiji"
+  },
+  {
+    "code": "FKP",
+    "name": "Falkland Islands Pound",
+    "rate": 0.80,
+    "country": "Falkland Islands"
+  },
+  {
+    "code": "GBP",
+    "name": "British Pound Sterling",
+    "rate": 0.80,
+    "country": "United Kingdom"
+  },
+  {
+    "code": "GEL",
+    "name": "Georgian Lari",
+    "rate": 2.50,
+    "country": "Georgia"
+  },
+  {
+    "code": "GHS",
+    "name": "Ghanaian Cedi",
+    "rate": 11.00,
+    "country": "Ghana"
+  },
+  {
+    "code": "GTQ",
+    "name": "Guatemalan Quetzal",
+    "rate": 7.70,
+    "country": "Guatemala"
+  },
+  {
+    "code": "GYD",
+    "name": "Guyanese Dollar",
+    "rate": 210.00,
+    "country": "Guyana"
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "rate": 7.85,
+    "country": "Hong Kong"
+  },
+  {
+    "code": "HNL",
+    "name": "Honduran Lempira",
+    "rate": 24.00,
+    "country": "Honduras"
+  },
+  {
+    "code": "HRK",
+    "name": "Croatian Kuna",
+    "rate": 7.20,
+    "country": "Croatia"
+  },
+  {
+    "code": "HTG",
+    "name": "Haitian Gourde",
+    "rate": 140.00,
+    "country": "Haiti"
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian Forint",
+    "rate": 300.00,
+    "country": "Hungary"
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "rate": 15,
+    500.00,
+    "country": "Indonesia"
+  },
+  {
+    "code": "ILS",
+    "name": "Israeli New Shekel",
+    "rate": 3.60,
+    "country": "Israel"
+  },
+  {
+    "code": "INR",
+    "name": "Indian Rupee",
+    "rate": 83.00,
+    "country": "India"
+  },
+  {
+    "code": "IQD",
+    "name": "Iraqi Dinar",
+    "rate": 1,
+    460.00,
+    "country": "Iraq"
+  },
+  {
+    "code": "IRR",
+    "name": "Iranian Rial",
+    "rate": 42,
+    000.00,
+    "country": "Iran"
+  },
+  {
+    "code": "ISK",
+    "name": "Icelandic Króna",
+    "rate": 140.00,
+    "country": "Iceland"
+  },
+  {
+    "code": "JMD",
+    "name": "Jamaican Dollar",
+    "rate": 155.00,
+    "country": "Jamaica"
+  },
+  {
+    "code": "JOD",
+    "name": "Jordanian Dinar",
+    "rate": 0.71,
+    "country": "Jordan"
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "rate": 147.00,
+    "country": "Japan"
+  },
+  {
+    "code": "KES",
+    "name": "Kenyan Shilling",
+    "rate": 150.00,
+    "country": "Kenya"
+  },
+  {
+    "code": "KGS",
+    "name": "Kyrgyzstani Som",
+    "rate": 90.00,
+    "country": "Kyrgyzstan"
+  },
+  {
+    "code": "KHR",
+    "name": "Cambodian Riel",
+    "rate": 4,
+    050.00,
+    "country": "Cambodia"
+  },
+  {
+    "code": "KMF",
+    "name": "Comorian Franc",
+    "rate": 450.00,
+    "country": "Comoros"
+  },
+  {
+    "code": "KRW",
+    "name": "South Korean Won",
+    "rate": 1,
+    300.00,
+    "country": "South Korea"
+  },
+  {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "rate": 0.31,
+    "country": "Kuwait"
+  },
+  {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar",
+    "rate": 0.83,
+    "country": "Cayman Islands"
+  },
+  {
+    "code": "KZT",
+    "name": "Kazakhstani Tenge",
+    "rate": 470.00,
+    "country": "Kazakhstan"
+  },
+  {
+    "code": "LAK",
+    "name": "Lao Kip",
+    "rate": 14,
+    800.00,
+    "country": "Laos"
+  },
+  {
+    "code": "LBP",
+    "name": "Lebanese Pound",
+    "rate": 27,
+    000.00,
+    "country": "Lebanon"
+  },
+  {
+    "code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "rate": 290.00,
+    "country": "Sri Lanka"
+  },
+  {
+    "code": "LRD",
+    "name": "Liberian Dollar",
+    "rate": 60.00,
+    "country": "Liberia"
+  },
+  {
+    "code": "LYD",
+    "name": "Libyan Dinar",
+    "rate": 4.50,
+    "country": "Libya"
+  },
+  {
+    "code": "MAD",
+    "name": "Moroccan Dirham",
+    "rate": 10.00,
+    "country": "Morocco"
+  },
+  {
+    "code": "MDL",
+    "name": "Moldovan Leu",
+    "rate": 18.00,
+    "country": "Moldova"
+  },
+  {
+    "code": "MGA",
+    "name": "Malagasy Ariary",
+    "rate": 4,
+    200.00,
+    "country": "Madagascar"
+  },
+  {
+    "code": "MKD",
+    "name": "Macedonian Denar",
+    "rate": 57.00,
+    "country": "North Macedonia"
+  },
+  {
+    "code": "MMK",
+    "name": "Myanmar Kyat",
+    "rate": 2,
+    800.00,
+    "country": "Myanmar"
+  },
+  {
+    "code": "MNT",
+    "name": "Mongolian Tögrög",
+    "rate": 3,
+    500.00,
+    "country": "Mongolia"
+  },
+  {
+    "code": "MRU",
+    "name": "Mauritanian Ouguiya",
+    "rate": 35.00,
+    "country": "Mauritania"
+  },
+  {
+    "code": "MUR",
+    "name": "Mauritian Rupee",
+    "rate": 45.00,
+    "country": "Mauritius"
+  },
+  {
+    "code": "MVR",
+    "name": "Maldivian Rufiyaa",
+    "rate": 15.40,
+    "country": "Maldives"
+  },
+  {
+    "code": "MWK",
+    "name": "Malawian Kwacha",
+    "rate": 1,
+    000.00,
+    "country": "Malawi"
+  },
+  {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "rate": 17.80,
+    "country": "Mexico"
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "rate": 4.50,
+    "country": "Malaysia"
+  },
+  {
+    "code": "MZN",
+    "name": "Mozambican Metical",
+    "rate": 64.00,
+    "country": "Mozambique"
+  },
+  {
+    "code": "NAD",
+    "name": "Namibian Dollar",
+    "rate": 18.00,
+    "country": "Namibia"
+  },
+  {
+    "code": "NGN",
+    "name": "Nigerian Naira",
+    "rate": 770.00,
+    "country": "Nigeria"
+  },
+  {
+    "code": "NIO",
+    "name": "Nicaraguan Córdoba",
+    "rate": 36.00,
+    "country": "Nicaragua"
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "rate": 10.00,
+    "country": "Norway"
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "rate": 1.60,
+    "country": "New Zealand"
+  },
+  {
+    "code": "OMR",
+    "name": "Omani Rial",
+    "rate": 0.39,
+    "country": "Oman"
+  },
+  {
+    "code": "PAB",
+    "name": "Panamanian Balboa",
+    "rate": 1.00,
+    "country": "Panama"
+  },
+  {
+    "code": "PEN",
+    "name": "Peruvian Sol",
+    "rate": 3.60,
+    "country": "Peru"
+  },
+  {
+    "code": "PGK",
+    "name": "Papua New Guinean Kina",
+    "rate": 3.50,
+    "country": "Papua New Guinea"
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "rate": 55.00,
+    "country": "Philippines"
+  },
+  {
+    "code": "PKR",
+    "name": "Pakistani Rupee",
+    "rate": 277.00,
+    "country": "Pakistan"
+  },
+  {
+    "code": "PLN",
+    "name": "Polish Zloty",
+    "rate": 4.50,
+    "country": "Poland"
+  },
+  {
+    "code": "PYG",
+    "name": "Paraguayan Guarani",
+    "rate": 7,
+    200.00,
+    "country": "Paraguay"
+  },
+  {
+    "code": "QAR",
+    "name": "Qatari Rial",
+    "rate": 3.64,
+    "country": "Qatar"
+  },
+  {
+    "code": "RON",
+    "name": "Romanian Leu",
+    "rate": 4.70,
+    "country": "Romania"
+  },
+  {
+    "code": "RSD",
+    "name": "Serbian Dinar",
+    "rate": 104.00,
+    "country": "Serbia"
+  },
+  {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "rate": 95.00,
+    "country": "Russia"
+  },
+  {
+    "code": "RWF",
+    "name": "Rwandan Franc",
+    "rate": 1200.00,
+    "country": "Rwanda"
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi Riyal",
+    "rate": 3.75,
+    "country": "Saudi Arabia"
+  },
+  {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar",
+    "rate": 8.10,
+    "country": "Solomon Islands"
+  },
+  {
+    "code": "SCR",
+    "name": "Seychellois Rupee",
+    "rate": 13.50,
+    "country": "Seychelles"
+  },
+  {
+    "code": "SDG",
+    "name": "Sudanese Pound",
+    "rate": 22,
+    000.00,
+    "country": "Sudan"
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "rate": 10.50,
+    "country": "Sweden"
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "rate": 1.35,
+    "country": "Singapore"
+  },
+  {
+    "code": "SLL",
+    "name": "Sierra Leonean Leone",
+    "rate": 15,
+    000.00,
+    "country": "Sierra Leone"
+  },
+  {
+    "code": "SOS",
+    "name": "Somali Shilling",
+    "rate": 570.00,
+    "country": "Somalia"
+  },
+  {
+    "code": "SRD",
+    "name": "Surinamese Dollar",
+    "rate": 36.00,
+    "country": "Suriname"
+  },
+  {
+    "code": "SZL",
+    "name": "Swazi Lilangeni",
+    "rate": 18.00,
+    "country": "Eswatini"
+  },
+  {
+    "code": "THB",
+    "name": "Thai Baht",
+    "rate": 34.00,
+    "country": "Thailand"
+  },
+  {
+    "code": "TJS",
+    "name": "Tajikistani Somoni",
+    "rate": 11.00,
+    "country": "Tajikistan"
+  },
+  {
+    "code": "TMT",
+    "name": "Turkmenistani Manat",
+    "rate": 3.50,
+    "country": "Turkmenistan"
+  },
+  {
+    "code": "TND",
+    "name": "Tunisian Dinar",
+    "rate": 3.00,
+    "country": "Tunisia"
+  },
+  {
+    "code": "TOP",
+    "name": "Tongan Paʻanga",
+    "rate": 2.30,
+    "country": "Tonga"
+  },
+  {
+    "code": "TRY",
+    "name": "Turkish Lira",
+    "rate": 27.00,
+    "country": "Turkey"
+  },
+  {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar",
+    "rate": 6.80,
+    "country": "Trinidad and Tobago"
+  },
+  {
+    "code": "TWD",
+    "name": "New Taiwan Dollar",
+    "rate": 32.00,
+    "country": "Taiwan"
+  },
+  {
+    "code": "TZS",
+    "name": "Tanzanian Shilling",
+    "rate": 2300.00,
+    "country": "Tanzania"
+  },
+  {
+    "code": "UAH",
+    "name": "Ukrainian Hryvnia",
+    "rate": 37.00,
+    "country": "Ukraine"
+  },
+  {
+    "code": "UGX",
+    "name": "Ugandan Shilling",
+    "rate": 3900.00,
+    "country": "Uganda"
+  },
+  {
+    "code": "USD",
+    "name": "United States Dollar",
+    "rate": 1.00,
+    "country": "United States"
+  },
+  {
+    "code": "UYU",
+    "name": "Uruguayan Peso",
+    "rate": 39.00,
+    "country": "Uruguay"
+  },
+  {
+    "code": "UZS",
+    "name": "Uzbekistani Som",
+    "rate": 12200.00,
+    "country": "Uzbekistan"
+  },
+  {
+    "code": "VES",
+    "name": "Venezuelan Bolívar",
+    "rate": 27.00,
+    "country": "Venezuela"
+  },
+  {
+    "code": "VND",
+    "name": "Vietnamese Dong",
+    "rate": 24000.00,
+    "country": "Vietnam"
+  },
+  {
+    "code": "VUV",
+    "name": "Vanuatu Vatu",
+    "rate": 120.00,
+    "country": "Vanuatu"
+  },
+  {
+    "code": "WST",
+    "name": "Samoan Tala",
+    "rate": 2.80,
+    "country": "Samoa"
+  },
+  {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "rate": 600.00,
+    "country": "Central African Republic"
+  },
+  {
+    "code": "XAG",
+    "name": "Silver Ounce",
+    "rate": 25.00,
+    "country": "International"
+  },
+  {
+    "code": "XAU",
+    "name": "Gold Ounce",
+    "rate": 1900.00,
+    "country": "International"
+  },
+  {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "rate": 2.70,
+    "country": "Eastern Caribbean"
+  },
+  {
+    "code": "XDR",
+    "name": "Special Drawing Rights",
+    "rate": 1.50,
+    "country": "International"
+  },
+  {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "rate": 600.00,
+    "country": "West Africa"
+  },
+  {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "rate": 110.00,
+    "country": "Pacific Islands"
+  },
+  {
+    "code": "YER",
+    "name": "Yemeni Rial",
+    "rate": 250.00,
+    "country": "Yemen"
+  },
+  {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "rate": 18.00,
+    "country": "South Africa"
+  },
+  {
+    "code": "ZMW",
+    "name": "Zambian Kwacha",
+    "rate": 26.00,
+    "country": "Zambia"
+  },
+  {
+    "code": "ZWL",
+    "name": "Zimbabwean Dollar",
+    "rate": 4000.00,
+    "country": "Zimbabwe"
+  }
+]
