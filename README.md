@@ -1,6 +1,5 @@
 
 
-```markdown
 # Contrates - Exchange Rate API
 
 Contrates is a backend application built with NestJS that provides an API for fetching and managing exchange rates. It allows users to retrieve the latest exchange rates, convert currencies, and access historical exchange data.
